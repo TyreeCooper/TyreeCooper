@@ -11,7 +11,7 @@
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 
 
-<p align="center">I'm an IT Professional.<br/>I specialize in IT & Cybersecurity.<br> I also love web-development, Graphic Design, etc.<br></p><br/>
+<p align="center">I'm an IT Professional.<br/>I specialize in IT & Cybersecurity.<br> I also love web-development, graphic design, etc.<br></p><br/>
 
 <p align = "center"><a href="https://www.buymeacoffee.com/tyreenichoP"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="tyreenichoP" /></a></p><br><br>
 
