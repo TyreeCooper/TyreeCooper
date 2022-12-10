@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+
+
+
 <h1><p align="center">Hello, I'm Tyree Cooper! <a href="https://www.linkedin.com/in/tyreecooper/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
 <p align="center" ><img 
