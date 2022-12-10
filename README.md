@@ -40,6 +40,11 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=tyreecooper&">
 </p>
 
+
+ <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1643514620/6248/dumpster-fire.gif?1643514620" align="center"
+                width="28" /> Projects</h2></summary>
+
+
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
                 width="28" /> My Tools</h2></summary>
 
