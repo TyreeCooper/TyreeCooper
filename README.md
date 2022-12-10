@@ -66,7 +66,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <p><li>Azure Virtual Machines, Wireshark, and Network Security Groups</li></p>
 
-
+<p>
 <b>Environments and Technologies Used</b>
 <li>Microsoft Azure (Virtual Machines/Compute)</li>
 <li>Remote Desktop</li>
@@ -76,7 +76,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <li>Operating Systems Used</li>
 <li>Windows 10 (21H2)</li>
 <li>Ubuntu Server 20.04</li>
-
+</p>
 
 
 https://user-images.githubusercontent.com/119543472/206852743-47df365a-7321-45c9-8ff6-ee71f74ea704.mp4
