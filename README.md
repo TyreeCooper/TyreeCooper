@@ -77,6 +77,25 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <li>Windows 10 (21H2)</li>
 <li>Ubuntu Server 20.04</li>
 
+
+
+https://user-images.githubusercontent.com/119543472/206852743-47df365a-7321-45c9-8ff6-ee71f74ea704.mp4
+
+https://user-images.githubusercontent.com/119543472/206852762-fd2e5e95-395f-43a2-b89c-f2a0a3b0dd29.mp4
+
+https://user-images.githubusercontent.com/119543472/206852799-4771071d-eef4-4d43-a431-2860a5607a5d.mp4
+
+https://user-images.githubusercontent.com/119543472/206852817-a1e1391e-0044-431f-ace1-c18bca5e6d38.mp4
+
+
+
+
+
+
+
+
+
+
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
                 width="28" /> My Tools</h2></summary>
 
