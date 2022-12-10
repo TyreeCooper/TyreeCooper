@@ -51,8 +51,8 @@
  <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1643514620/6248/dumpster-fire.gif?1643514620" align="center"
                 width="28" /> Projects</h2></summary>
 
+<p align="center"><br/><b>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</b><br></p><br/>
 
-<h3><b>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</b></h3>
 
 <p align="center">
   <a href="">
