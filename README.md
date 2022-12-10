@@ -49,12 +49,12 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />     
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" />   
-<img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Azure-Dark.svg" alt="Azure" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" />     
+<img style="margin: 10px" src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" alt="Powershell" height="25" />  
+<img style="margin: 10px" src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="azure" height="25" />  
+<img style="margin: 10px" src="https://wiki.hornbill.com/images/d/d6/Activedirectory_logo.png" alt="Active directory" height="25" />  
+<img style="margin: 10px" src="https://d1myhw8pp24x4f.cloudfront.net/software_logo/1441950975_osticket.png" alt="osTicket" height="25" />  
+<img style="margin: 10px" src="https://banner2.cleanpng.com/20180623/yfs/kisspng-wireshark-communication-protocol-network-packet-pc-5b2e98a55799d4.6711669115297803893588.jpg" alt="Wireshark" height="25" />  
+
+ 
 </div> 
