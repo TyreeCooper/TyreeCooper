@@ -55,25 +55,25 @@
 <h3><b>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</b></h3>
 
 <p align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="">
   <img  src="https://user-images.githubusercontent.com/119543472/206842974-fb363bcf-6c7a-46a2-b469-601d11f959f8.png"
-       alt="snake" /></a></p>
+       alt="Azure Traffic Exam" /></a></p>
 
 
 
 In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups.
-Video Demonstration
 
-Azure Virtual Machines, Wireshark, and Network Security Groups
-Environments and Technologies Used
-Microsoft Azure (Virtual Machines/Compute)
-Remote Desktop
-Various Command-Line Tools
-Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-Wireshark (Protocol Analyzer)
-Operating Systems Used
-Windows 10 (21H2)
-Ubuntu Server 20.04
+
+<li>Azure Virtual Machines, Wireshark, and Network Security Groups</li>
+<b>Environments and Technologies Used</b>
+<li>Microsoft Azure (Virtual Machines/Compute)</li>
+<li>Remote Desktop</li>
+<li>Various Command-Line Tools</li>
+<li>Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)</li>
+<li>Wireshark (Protocol Analyzer)</li>
+<li>Operating Systems Used</li>
+<li>Windows 10 (21H2)</li>
+<li>Ubuntu Server 20.04</li>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
                 width="28" /> My Tools</h2></summary>
