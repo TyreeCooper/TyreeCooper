@@ -17,7 +17,7 @@
 - 🤔 I’m looking for help with Python & SQL.
 - 💬 Ask me about Affinity Creator, Digital Marketing, Any tech-related stuff.
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1643514122/821/fistbump.gif?1643514122" align="center"
                 width="28" /> To connect with me</h2></summary>
 
 <p align = "center">
@@ -30,7 +30,7 @@
 
 </p>
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1643514380/3549/clapping-inclusive.gif?1643514380" align="center"
                 width="28" /> My Github Stats</h2> </summary>
 
 <br>
