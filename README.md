@@ -11,17 +11,17 @@
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 
 
-<p align="center">I'm an IT Professional.<br/>I specialize in IT & Cybersecurity.<br> I also love web-development, graphic design, etc.<br></p><br/>
+<p align="center">I'm an IT Professional.<br/>I specialize in IT | Cybersecurity | Quality Assurance.<br> I also love web-development, graphic design, etc.<br></p><br/>
 
 <p align = "center"><a href="https://www.buymeacoffee.com/tyreenichoP"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="tyreenichoP" /></a></p><br><br>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" align="center"
                 width="28" /> What I currently do</h2></summary>
 
-- 🔭 I'm working on some secret stuff.
-- 🌱 I’m currently learning Azure, Linux and Python.
+- 🔭 I'm curremtly working on obtaining my ASTQB - ISTQB Certified Tester Foundation Level (CTFL)
+- 🌱 I’m currently learning Python, SQL and Kali linux.
 - 👯 I’m looking to collaborate on Graphic Design and Content Creation projects.
-- 🤔 I’m looking for help with Python & SQL.
+- 🤔 I’m looking for help with cybersecurity.
 - 💬 Ask me about Affinity Creator, Digital Marketing, Any tech-related stuff.
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1643514122/821/fistbump.gif?1643514122" align="center"
